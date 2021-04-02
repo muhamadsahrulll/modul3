@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class praktikum3no2 {
     public static void main(String[] args) {
         System.out.println("Binary Search");
-        int N = 11;
+   
         Scanner scan = new Scanner(System.in);
         int A[] = {2,4,6,8,10,12,14,16,18,20};
         int cari;
